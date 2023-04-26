@@ -1,6 +1,5 @@
 # Exploratory-data-analytics-using-Python
 
-EXPLORATORY DATA ANALYTICS AND DATA PRE-PROCESSING TASK.
 PART 1
 The dataset cancer.csv was used for this task. This dataset contains variables that have bearing in predicting whether a brain tumour is likely to be malignant (cancerous) or benign (non-cancerous). 
 
